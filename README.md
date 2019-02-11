@@ -1,5 +1,6 @@
 # devops-aula02
 
 - Robert Downey Jr;
-- Megan Fox;
-- Hug Jackman.
+- Scarlett Johansson;
+- Hug Jackman;
+- Vin Diesel.
