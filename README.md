@@ -1,5 +1,5 @@
 # Artistas
 
-- Robert Downey Jr;
-- Megan Fox;
-- Hug Jackman.
+- CS
+- Call Of Dutty
+- Combat Arms
