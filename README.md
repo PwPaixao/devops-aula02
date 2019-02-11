@@ -1,4 +1,4 @@
-# devops-aula02
+# Artistas
 
 - Robert Downey Jr;
 - Megan Fox;
