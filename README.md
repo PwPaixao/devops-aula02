@@ -1,5 +1,5 @@
 # artistas
 
-Robert Downey Jr;
-Megan Fox;
-Hug Jackman.
+- Robert Downey Jr
+- Megan Fox
+- Hug Jackman
